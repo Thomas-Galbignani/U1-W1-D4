@@ -1,0 +1,143 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+  padding: 3em;
+  width: 100%;
+  background-image: url("assets/img/sfondo.png;");
+  background-repeat: repeat;
+  font-family: "Poppins", sans-serif;
+}
+.bianco {
+  margin: 0.5em;
+  color: white;
+}
+.bianco-a {
+  display: block;
+
+  margin: 0.5em;
+  color: white;
+  text-decoration: none;
+}
+
+/* HEADER */
+#loghetto {
+  margin: 2em;
+}
+
+header {
+  padding: 1em;
+  width: 500px;
+  display: block;
+  margin: 0 450px 0 450px;
+  background: linear-gradient(#1c6b79, #009bc3);
+}
+header ul li {
+  display: block;
+  text-align: center;
+}
+header p {
+  display: block;
+  text-align: center;
+}
+
+/* MAIN */
+main {
+  width: 500px;
+  display: block;
+  margin: 0 450px 0 450px;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 2.5em;
+  padding: 15px;
+}
+#autore {
+  color: rgb(125, 125, 125);
+  display: block;
+  padding: 10px;
+  font-size: 140%;
+}
+.intro {
+  display: block;
+  height: 150px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 130%;
+  padding: 15px;
+}
+.paragrafi {
+  font-size: 130%;
+}
+#intro span {
+  color: rgb(217, 52, 124);
+}
+#suddivisione {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 2em;
+  padding: 15px;
+}
+.lista {
+  display: block;
+  margin-left: 40px;
+  list-style: disc;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 1.7em;
+  padding: 15px;
+}
+.lista-1 {
+  display: block;
+  margin-left: 40px;
+  list-style: decimal;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 1.7em;
+  padding: 15px;
+}
+.grey-box {
+  border-radius: 12px;
+  margin-top: 5px;
+  text-align: center;
+  align-content: center;
+  box-sizing: border-box;
+  width: 4.8em;
+  height: 1.3em;
+  background-color: grey;
+  display: block;
+}
+/* TABELLE */
+caption {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 1.3em;
+  padding: 15px;
+}
+#raw {
+  text-align: center;
+  height: 80px;
+  background-color: #1c6b79;
+}
+.thead {
+  padding: 25px;
+  border: 0.5px solid white;
+}
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
+footer {
+  width: 500px;
+  display: block;
+  margin: 0 450px 0 450px;
+}
