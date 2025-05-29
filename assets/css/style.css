@@ -131,6 +131,18 @@ caption {
   padding: 25px;
   border: 0.5px solid white;
 }
+.tabella-bianca {
+  text-align: center;
+  height: 20px;
+  background-color: #ffffff;
+}
+.tabella-grigia {
+  border-top: 1px solid #424748;
+  border-bottom: 1px solid #424748;
+  text-align: center;
+  height: 20px;
+  background-color: #424748;
+}
 /* FORM */
 
 /* ELEMENTI NELL' ASIDE */
